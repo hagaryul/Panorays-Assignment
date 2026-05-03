@@ -24,7 +24,7 @@ export default defineConfig({
       name: "critical",
       grep: /@critical/,
       timeout: 30000,
-      retries: 3,
+      retries: 0,
       dependencies: ["setup"],
       use: {
         ...devices["Desktop Chrome"],
@@ -35,7 +35,7 @@ export default defineConfig({
       name: "regression",
       grep: /@regression/,
       timeout: 60000,
-      retries: 3,
+      retries: 0,
       dependencies: ["setup"],
       use: {
         ...devices["Desktop Chrome"],

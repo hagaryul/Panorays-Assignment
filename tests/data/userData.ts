@@ -10,6 +10,6 @@ export const securityKitData = {
   section: "Privacy & Compliance",
   item: {
     url: "https://www.example.com",
-    name: "https://www.example.com",
+    name: "Example Link",
   },
 };
