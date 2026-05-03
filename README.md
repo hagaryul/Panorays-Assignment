@@ -1,6 +1,6 @@
-# Panorays Assignment — Playwright E2E Tests
+# Panorays Assignment
 
-Automated end-to-end tests for the Panorays Security Kit application.
+Automated test for the Panorays Security Kit application.
 
 ## Setup
 
